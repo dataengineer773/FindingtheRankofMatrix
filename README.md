@@ -1,0 +1,1 @@
+We need to know the rank of a matrix, The solution is Use NumPy’s linear algebra method matrix_rank The rank of a matrix is the dimensions of the vector space spanned by its columns or rows. Finding the rank of a matrix is easy in NumPy.
